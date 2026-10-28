@@ -1,0 +1,8 @@
+httpSession hs = request.getSession(Boolean b)
+                    true = > find and exesting session
+                    false = > in the case of false fine and exesting session card return null.
+
+HttpsSession hs 
+          hs.setAttribute("key","value")
+Object =>  hs.getAttribute("key")
+           hs.invalidate();//for session destroy

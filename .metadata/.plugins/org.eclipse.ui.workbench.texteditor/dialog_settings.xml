@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<list key="findhistory">
+			<item value="Button"/>
+			<item value="TextField"/>
+			<item value="JTextField"/>
+		</list>
+		<list key="replacehistory">
+			<item value="JButton"/>
+			<item value="JTextField"/>
+			<item value="TextField"/>
+		</list>
+	</section>
+</section>
